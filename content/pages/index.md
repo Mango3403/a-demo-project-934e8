@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 主页
 sections:
   - section_id: hero
     type: section_hero
